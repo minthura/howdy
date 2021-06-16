@@ -8,8 +8,8 @@ Clone this repository in your local machine and run "flutter pub get && cd minht
 
 ## Supported Locales
 
-English
-Myanmar
+* English
+* Myanmar
 
 ## Screenshots
 
